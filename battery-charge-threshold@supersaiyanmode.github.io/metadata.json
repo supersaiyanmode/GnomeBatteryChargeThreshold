@@ -1,0 +1,8 @@
+{
+  "name": "Battery Charge Threshold",
+  "description": "Sets battery charge threshold",
+  "uuid": "battery-charge-threshold@supersaiyanmode.github.io",
+  "shell-version": [
+    "42"
+  ]
+}
